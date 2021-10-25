@@ -1,0 +1,24 @@
+{
+  "name": "assignment02-calculator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/web-dot/JavaScript-Calculator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/web-dot/JavaScript-Calculator/issues"
+  },
+  "homepage": "https://github.com/web-dot/JavaScript-Calculator#readme",
+  "dependencies": {
+    "compression": "^1.7.4",
+    "express": "^4.17.1",
+    "helmet": "^4.6.0"
+  }
+}
